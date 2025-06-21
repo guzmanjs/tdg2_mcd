@@ -6,5 +6,7 @@ Desarrollar un modelo integrado que combine la predicción del peso de pollos de
 
 ### Objetivos Específicos:
 • Construir un modelo de predicción de peso de pollos de engorde que permita estimar el peso de las aves en una edad determinada.
+
 • Diseñar un modelo de optimización de cosecha, basado en programación matemática, que determine el día óptimo de sacrificio de cada lote de aves, minimizando los costos de alimentación y asegurando el cumplimiento de los rangos de peso exigidos por el mercado (aves pequeñas, medianas y grandes).
+
 • Integrar la predicción de peso como insumo clave en el modelo de optimización, permitiendo una planificación dinámica y ajustada a la variabilidad de crecimiento de las aves.
